@@ -3,7 +3,7 @@
     <!-- Background Image with Overlay -->
     <div 
       class="absolute inset-0 bg-cover bg-center z-0" 
-      style="background-image: url('https://images.unsplash.com/photo-1498038432885-c6f3f1b912ee?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80')"
+      style="background-image: url('https://images.unsplash.com/photo-1470225620780-dba8ba36b745?auto=format&fit=crop&q=80&w=1920')"
     >
       <div class="absolute inset-0 bg-black/60"></div>
     </div>

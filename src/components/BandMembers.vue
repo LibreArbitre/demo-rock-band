@@ -29,7 +29,7 @@ const members = [
   {
     name: 'Zero One',
     role: 'Lead Vocals & Synth',
-    image: 'https://images.unsplash.com/photo-1521335629791-73ab0298c7fb?auto=format&fit=crop&q=80&w=600',
+    image: 'https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?auto=format&fit=crop&q=80&w=600',
     quote: 'Loud is the only language everyone understands.'
   },
   {
@@ -41,13 +41,13 @@ const members = [
   {
     name: 'Kernel',
     role: 'Bass Guitar',
-    image: 'https://images.unsplash.com/photo-1564186763535-ebb21ef52784?auto=format&fit=crop&q=80&w=600',
+    image: 'https://images.unsplash.com/photo-1598387181032-a3103a2db5b3?auto=format&fit=crop&q=80&w=600',
     quote: 'The low end holds the world together.'
   },
   {
     name: 'BPM',
     role: 'Drums & Percussion',
-    image: 'https://images.unsplash.com/photo-1552239658-db71a88f8a24?auto=format&fit=crop&q=80&w=600',
+    image: 'https://images.unsplash.com/photo-1510915361894-db8b60106cb1?auto=format&fit=crop&q=80&w=600',
     quote: 'Keep the pulse or let it die.'
   }
 ]

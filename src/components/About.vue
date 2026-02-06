@@ -4,7 +4,7 @@
       <div class="flex flex-col md:flex-row items-center gap-12">
         <div class="md:w-1/2">
           <img 
-            src="https://images.unsplash.com/photo-1459749411177-042180ce673c?auto=format&fit=crop&q=80&w=800" 
+            src="https://images.unsplash.com/photo-1493225255756-d9584f8606e9?auto=format&fit=crop&q=80&w=800" 
             alt="Band rehearsal" 
             class="grayscale hover:grayscale-0 transition-all duration-500 rounded-lg shadow-2xl border-4 border-rock-700"
           >
