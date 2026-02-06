@@ -29,25 +29,25 @@ const members = [
   {
     name: 'Zero One',
     role: 'Lead Vocals & Synth',
-    image: 'https://images.unsplash.com/photo-1549413187-052003020555?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80',
+    image: 'https://images.unsplash.com/photo-1521335629791-73ab0298c7fb?auto=format&fit=crop&q=80&w=600',
     quote: 'Loud is the only language everyone understands.'
   },
   {
     name: 'Solder',
     role: 'Guitar & Effects',
-    image: 'https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80',
+    image: 'https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&q=80&w=600',
     quote: 'Feedback is just the guitar talking back.'
   },
   {
     name: 'Kernel',
     role: 'Bass Guitar',
-    image: 'https://images.unsplash.com/photo-1594121302421-4d3783a93b37?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80',
+    image: 'https://images.unsplash.com/photo-1564186763535-ebb21ef52784?auto=format&fit=crop&q=80&w=600',
     quote: 'The low end holds the world together.'
   },
   {
     name: 'BPM',
     role: 'Drums & Percussion',
-    image: 'https://images.unsplash.com/photo-1524230659192-f5f4b00375e8?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80',
+    image: 'https://images.unsplash.com/photo-1552239658-db71a88f8a24?auto=format&fit=crop&q=80&w=600',
     quote: 'Keep the pulse or let it die.'
   }
 ]
